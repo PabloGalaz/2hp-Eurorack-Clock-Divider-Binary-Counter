@@ -5,7 +5,7 @@ Slim CD4024-based Eurorack Clock Divider/Binary Counter Schematic based on Clock
 - 2hp (instead of 4hp)
 - Mostly SMD components (0603)
 - Added /128 output
-- Added LED for clock input (through-hole, bent)
+- Added LED for clock input (through-hole, bent; watch video)
 - Only one board
 
 The PCB layout was inspired by the PCB layout of Uncertainty, by OAM (https://github.com/oamodular/uncertainty.git)
