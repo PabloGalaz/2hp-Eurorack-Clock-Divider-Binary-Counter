@@ -13,5 +13,5 @@ First version has a footprint error that can be fixed by carefully bending the l
 
 BUILD THIS AT YOUR OWN RISK. FILES PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
-[![Watch the video](https://img.youtube.com/vi/lrMSy79it8Q/0.jpg)](https://www.youtube.com/watch?v=lrMSy79it8Q)
+[![Watch the video](https://img.youtube.com/vi/lrMSy79it8Q/0.jpg)](https://www.youtube.com/shorts/lrMSy79it8Q)
 
