@@ -10,7 +10,7 @@ Slim CD4024-based Eurorack Clock Divider/Binary Counter Schematic based on Clock
 
 The PCB layout was inspired by the PCB layout of Uncertainty, by OAM (https://github.com/oamodular/uncertainty.git)
 
-Version 2 is the only one that has been manufactured and tested. This version has a footprint error that can be fixed by carefully bending the legs of the MMBT3904 (SOT-23-3) and soldering them upside down (!). It's easier than it sounds, and it will work. Version 3 has that error fixed, but has not been tested.
+Version 2 is the only one that has been manufactured and tested. This version has a footprint error that can be fixed by carefully bending the legs of the five MMBT3904 transistors (SOT-23-3) and soldering them upside down (!). It's easier than it sounds, and it will work. Version 3 has that error fixed, but has not been tested yet.
 
 BUILD THIS AT YOUR OWN RISK. FILES PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
 
