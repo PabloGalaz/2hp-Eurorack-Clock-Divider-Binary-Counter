@@ -1,6 +1,6 @@
 # 2hp-Eurorack-Clock-Divider-Binary-Counter
 
-Slim CD4024-based Eurorack Clock Divider/Binary Counter Schematic based on Clock Divider by PolyKit (https://polykit.rocks/eurorack-clock-divider-module-modular-synth-diy/), with the following differences:
+Slim CD4024-based Eurorack Clock Divider/Binary Counter based on the schematic by PolyKit (https://polykit.rocks/eurorack-clock-divider-module-modular-synth-diy/), with the following differences:
 
 - 2hp (instead of 4hp)
 - Mostly SMD components (0603)
